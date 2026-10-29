@@ -19,6 +19,8 @@ Skills são instruções que o Claude carrega sozinho quando a tarefa pede. Com 
 
 Os 10 pacotes completos (53 skills) também saem juntos no **Pacote Todas as Skills**, na [loja](https://iddeia.com.br/loja/).
 
+Quer aprender a usar o Claude no trabalho, do zero? A [trIlhA iddeIA](https://iddeia.com.br/trilha/) é o curso com a mentora Déia, o Pacote Escritório incluído, certificado e preço de aluno em todos os pacotes.
+
 ## Requisito
 
 Claude Pro ou superior (plano pago da Anthropic). No Claude.ai, a execução de código e a criação de arquivos precisam estar ativadas nas configurações. Em planos Team ou Enterprise, o administrador pode precisar liberar o uso de Skills.
