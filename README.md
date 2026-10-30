@@ -1,6 +1,6 @@
 # Skills grátis para o Claude · trIlhA iddeIA
 
-10 skills em português para o Claude trabalhar no seu ramo, uma de cada pacote da [loja da trIlhA iddeIA](https://iddeia.com.br/loja/). Use à vontade na sua empresa. Se gostar, o pacote completo de cada área está na loja.
+12 skills em português para o Claude trabalhar no seu ramo, uma de cada pacote da [loja da trIlhA iddeIA](https://iddeia.com.br/loja/). Use à vontade na sua empresa. Se gostar, o pacote completo de cada área está na loja.
 
 Skills são instruções que o Claude carrega sozinho quando a tarefa pede. Com elas, ele faz o trabalho do jeito do seu setor, em vez de dar uma resposta genérica.
 
@@ -16,8 +16,10 @@ Skills são instruções que o Claude carrega sozinho quando a tarefa pede. Com 
 | `base-de-conhecimento` | Monta a base que o agente de atendimento consulta para responder seus clientes | Atendimento com IA · 5 skills |
 | `roteiro-de-entrevista` | Perguntas por competência, ficha de avaliação e o que nunca perguntar | RH · 5 skills |
 | `calendario-de-conteudo` | Calendário do mês para as redes da sua empresa, com o jeito da sua marca | Conteúdo e Redes · 5 skills |
+| `roteiro-de-visita` | Prepara a visita ao imóvel: percurso, o que destacar, objeções com resposta e ficha pós-visita para o proprietário | Corretor · 5 skills |
+| `rubrica-e-devolutiva` | Rubrica de avaliação com critérios, níveis e pesos, e devolutivas construtivas a partir das suas anotações, sem dados de estudantes | Professor · 3 skills |
 
-Os 10 pacotes completos (53 skills) também saem juntos no **Pacote Todas as Skills**, na [loja](https://iddeia.com.br/loja/).
+Os 12 pacotes completos (61 skills) também saem juntos no **Pacote Todas as Skills**, na [loja](https://iddeia.com.br/loja/).
 
 Quer aprender a usar o Claude no trabalho, do zero? A [trIlhA iddeIA](https://iddeia.com.br/trilha/) é o curso com a mentora Déia, o Pacote Escritório incluído, certificado e preço de aluno em todos os pacotes.
 
@@ -41,7 +43,9 @@ Baixe este repositório (botão *Code › Download ZIP*) e descompacte.
 As skills leem um perfil do seu negócio, se ele existir. Preencha o da pasta `perfis/` e anexe na conversa (ou deixe na pasta do projeto, no Claude Code):
 - `PERFIL_EMPRESA.md`: para quase todas as skills;
 - `PERFIL_AGENCIA.md`: para `preco-do-projeto`;
-- `PERFIL_APP.md`: para `ideia-do-app`.
+- `PERFIL_APP.md`: para `ideia-do-app`;
+- `PERFIL_CORRETOR.md`: para `roteiro-de-visita`;
+- `PERFIL_PROFESSOR.md`: para `rubrica-e-devolutiva`.
 
 Campo que ficou com `[ ]` ou com o exemplo `[ex.: …]` conta como não preenchido, e a skill pergunta.
 
